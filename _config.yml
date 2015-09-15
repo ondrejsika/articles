@@ -1,0 +1,5 @@
+# ar.os1.cz jekyll config
+name: ar.os1.cz
+markdown: redcarpet
+future: false
+
