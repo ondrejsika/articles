@@ -3,7 +3,9 @@ layout: default
 title: HTTP Status Codes
 ---
 
-[..](.)
+[web](.)
+
+# {{ page.title }}
 
 List of common HTTP status codes. From django rest framework.
 
