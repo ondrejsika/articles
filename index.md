@@ -9,6 +9,7 @@ layout: default
 - [latex](latex/)
 - [linux](linux/)
 - [math](math/)
+- [other](other/)
 - [web](web/)
 
 
